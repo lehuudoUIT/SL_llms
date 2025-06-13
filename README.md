@@ -5,3 +5,7 @@
 ### Project 2: Create Brochure for Website (`proj02_create_brochure_for_website.ipynb`)
 
 **Description**: This Python project implements a strategy pattern to process questions about Python code using either GPT-4o-mini or Llama3.2 models via the OpenAI API. It includes a system for streaming responses in Markdown format within a Jupyter notebook.
+
+### Project 3: Chatbot conversation(`proj03_chatbot_conversation.ipynb`)
+
+**Description**: This Python project showcases an innovative simulation of three chatbots engaging in dynamic conversations with each other.
